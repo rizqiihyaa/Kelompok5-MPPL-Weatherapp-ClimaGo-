@@ -18,3 +18,5 @@ Athalia Evelina Maharani 23106050085
 Nur Hairun Nisa Panjaitan 23106050088
 Rizqi Ihya’ur Rasikh 23106050095
 
+![ClimaGo Preview](https://github.com/user-attachments/assets/41803557-47be-4d77-a069-6c0f803d5884)
+
