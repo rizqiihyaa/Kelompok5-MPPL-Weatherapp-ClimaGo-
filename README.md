@@ -4,7 +4,7 @@ Climago adalah aplikasi mobile yang menyediakan informasi cuaca komprehensif den
 ✨ Fitur Utama
 
 Real-time Weather Data - Informasi cuaca terkini dengan update berkala
-7-Day Forecast - Prediksi cuaca hingga 7 hari ke depan
+12-Day Forecast - Prediksi cuaca hingga 12 hari ke depan
 Weather Alerts - Notifikasi peringatan cuaca ekstrem
 Location-based - Deteksi lokasi otomatis dan pencarian manual
 Interactive Charts - Grafik interaktif untuk data historis
