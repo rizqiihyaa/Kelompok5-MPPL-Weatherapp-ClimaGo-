@@ -1,7 +1,5 @@
 # Kelompok10-MPPL-Weatherapp-ClimaGo
 
-Berikut versi yang telah dimodifikasi agar struktur dan tampilannya lebih enak dibaca dan lebih profesional:
-
 ---
 
 ## 🌤️ **Climago: Aplikasi Cuaca Cerdas dan User-Friendly**
@@ -10,25 +8,46 @@ Berikut versi yang telah dimodifikasi agar struktur dan tampilannya lebih enak d
 
 ---
 
-### ✨ **Fitur Utama**
+## Fitur Utama:
 
-* **Real-time Weather Data**
-  Informasi cuaca terkini yang diperbarui secara berkala.
+### 1. **Tampilan Cuaca Saat Ini**
+- Menampilkan suhu real-time (26.8°C pada contoh)
+- Kondisi cuaca dengan ikon visual (hujan, cerah, berawan, dll.)
+- Lokasi saat ini (Sleman, Yogyakarta)
+- Waktu update terakhir
 
-* **12-Day Forecast**
-  Prediksi cuaca hingga 12 hari ke depan untuk perencanaan yang lebih baik.
+### 2. **Prakiraan Cuaca Per Jam**
+- Grafik timeline cuaca dalam 24 jam ke depan
+- Menampilkan suhu dan kondisi cuaca per jam
+- Visualisasi perubahan cuaca sepanjang hari
 
-* **Weather Alerts**
-  Notifikasi otomatis untuk peringatan cuaca ekstrem di wilayah Anda.
+### 3. **Variabel Cuaca Detail**
+- **Titik Embun (Dewpoint)**: Menunjukkan tingkat kelembaban
+- **Terasa Seperti (Feels like)**: Suhu yang dirasakan tubuh
+- **Visibilitas**: Jarak pandang dalam kondisi cuaca tertentu
+- **Tekanan Udara**: Informasi tekanan atmosfer
+- **Presipitasi**: Curah hujan yang diprediksi
+- **Kelembaban**: Persentase kelembaban udara
+- **Tutupan Awan**: Tingkat kepadatan awan
+- **Kecepatan Angin**: Informasi arah dan kecepatan angin
 
-* **Location-based**
-  Deteksi lokasi secara otomatis serta opsi pencarian manual.
+### 4. **Prakiraan 12 Hari**
+- Prediksi cuaca hingga 12 hari ke depan
+- Menampilkan suhu minimum dan maksimum harian
+- Kondisi cuaca untuk setiap hari
+- Ikon cuaca yang mudah dipahami
 
-* **Interactive Charts**
-  Grafik interaktif untuk menampilkan data cuaca historis.
+### 5. **Fitur Kota/Cities**
+- Pencarian lokasi berbagai kota
+- Informasi cuaca real-time untuk berbagai kota
+- Waktu lokal setiap kota
+- Perbandingan cuaca antar kota
 
-* **Personalized Dashboard**
-  Widget cuaca yang dapat disesuaikan dengan preferensi pengguna.
+### 6. **Peta Cuaca Interaktif**
+- Peta dengan overlay data cuaca
+- Visualisasi suhu pada berbagai wilayah
+- Fitur zoom dan navigasi peta
+- Informasi cuaca regional
 
 ---
 
@@ -41,7 +60,6 @@ Berikut versi yang telah dimodifikasi agar struktur dan tampilannya lebih enak d
 
 ---
 
-Bila kamu ingin, saya juga bisa bantu ubah ini menjadi versi poster, slide presentasi, atau landing page.
 
 ![ClimaGo Preview](https://github.com/user-attachments/assets/41803557-47be-4d77-a069-6c0f803d5884)
 
