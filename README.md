@@ -2,9 +2,9 @@
 
 ---
 
-## 🌤️ **Climago: Aplikasi Cuaca Cerdas dan User-Friendly**
+## 🌤️ **Climago**
 
-**Climago** adalah aplikasi mobile yang menyediakan informasi cuaca secara komprehensif dengan antarmuka yang ramah pengguna. Aplikasi ini dirancang untuk menyajikan data cuaca **real-time**, prediksi jangka pendek, serta **peringatan cuaca ekstrem**, guna membantu pengguna dalam pengambilan keputusan sehari-hari.
+Adalah aplikasi mobile yang menyediakan informasi cuaca secara komprehensif dengan antarmuka yang ramah pengguna. Aplikasi ini dirancang untuk menyajikan data cuaca real-time, prediksi jangka pendek, serta peringatan cuaca ekstrem, guna membantu pengguna dalam pengambilan keputusan sehari-hari.
 
 ---
 
@@ -60,6 +60,9 @@
 
 ---
 
+![Ui ClimaGo_Light](https://github.com/user-attachments/assets/c09223a3-1b2a-4dbe-b03e-5411bd878071)
+![Ui ClimaGo_dark](https://github.com/user-attachments/assets/4be388bb-8d87-4363-b90b-8c85101880e5)
 
-![ClimaGo Preview](https://github.com/user-attachments/assets/41803557-47be-4d77-a069-6c0f803d5884)
+
+
 
