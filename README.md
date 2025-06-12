@@ -60,6 +60,9 @@ Adalah aplikasi mobile yang menyediakan informasi cuaca secara komprehensif deng
 - Español (es, ES) → Spanyol
 - Français → Prancis
 ---
+## 🌤️ **Download ClimaGo WeatherApps**
+
+https://drive.google.com/file/d/1SVWSyOxYZOI798QOzncdunQige9HWD2p/view
 
 ### 🏠 **Anggota Kelompok**
 
