@@ -1,4 +1,4 @@
-# Kelompok10-MPPL-Weatherapp-ClimaGo
+# Kelompok5-MPPL-Weatherapp-ClimaGo
 
 ---
 
